@@ -1,2 +1,3 @@
 # FastFeaturePyramidsC-
-in order to understand fast feature pyramids, i try to ahcieve it with C/C++
+In order to understand fast feature pyramids, I try to ahcieve it with C/C++
+the original ref is https://github.com/pdollar/toolbox.
